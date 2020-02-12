@@ -34,6 +34,9 @@ def binarySearch (arr, l, r, x):
     else:
         return -1
 
+
+# TEST DATA
+
 arr = [ 2, 3, 4, 10, 40]
 x = 2
 
